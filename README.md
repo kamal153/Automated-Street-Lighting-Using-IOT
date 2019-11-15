@@ -4,9 +4,10 @@
 ➢ LDR (Light Dependent Resistor) is a special type of resistor whose value depends on the brightness of the light which is falling on it. It has resistance of about 1 mega ohm when in total darkness, but a resistance of only about 5k ohms when brightness illuminated. It responds to a large part of light spectrum. Since, voltage is directly proportional to conductance so more voltage we will get from this divider when LDR is getting light and low voltage in darkness.
 
 
-• Software Requirements:
+# Software Requirements:
   ➢ Arduino 1.8.5 (IDE)
-• Hardware Requirements:
+  
+# Hardware Requirements:
   ➢ Arduino UNO R3
   ➢ AC power supply
   ➢ Light Dependent Resistor (LDR) Sensor (Day/Night Detection)
